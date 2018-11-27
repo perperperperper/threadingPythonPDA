@@ -13,6 +13,8 @@ def print_cube(num):
 
 
 
+
+
 def print_square(num):
     for x in range(10):
         print('Square: ' + str(num * num) + ' x= ' + str(x))
