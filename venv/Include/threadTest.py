@@ -10,11 +10,6 @@ def print_cube(num):
         time.sleep(1)
         text = input('Type something here:\n')
 
-
-
-
-
-
 def print_square(num):
     for x in range(10):
         print('Square: ' + str(num * num) + ' x= ' + str(x))
