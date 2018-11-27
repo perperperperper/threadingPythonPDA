@@ -1,6 +1,7 @@
 # Python program to illustrate the concept
 # of threading importing and using the threading module
 # https://www.geeksforgeeks.org/multithreading-python-set-1/
+# By Per Dahlstrøm pda@ucl.dk
 import threading, time
 
 def print_cube(num):
