@@ -1,5 +1,5 @@
 # Python program to illustrate the concept
-# of threading importing the threading module
+# of threading importing and using the threading module
 # https://www.geeksforgeeks.org/multithreading-python-set-1/
 import threading, time
 
