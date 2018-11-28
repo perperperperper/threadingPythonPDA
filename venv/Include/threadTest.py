@@ -2,6 +2,7 @@
 # of threading importing and using the threading module
 # https://www.geeksforgeeks.org/multithreading-python-set-1/
 # By Per Dahlstrøm pda@ucl.dk
+# This was cloned on 28 November 2018 from github repository
 import threading, time
 
 def print_cube(num):
